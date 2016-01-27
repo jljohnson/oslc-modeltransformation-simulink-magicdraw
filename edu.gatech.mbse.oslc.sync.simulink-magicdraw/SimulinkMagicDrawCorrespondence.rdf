@@ -1,0 +1,49 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:crspndnc="http://open-services.net/ns/crspndnc/">
+  <rdf:Description rdf:about="http://testProvider.com/correspondences/http://localhost:8080/oslc4jmagicdraw/services/TestProject2/valueproperties/Constant_SimBlock::Value">
+    <crspndnc:PropertyPair rdf:parseType="Resource">
+      <crspndnc:resource2PropertyURI>http://omg.org/sysml/rdf#ValueProperty/defaultValue</crspndnc:resource2PropertyURI>
+      <crspndnc:resource1PropertyURI>http://mathworks.com/simulink/rdf#Parameter/value</crspndnc:resource1PropertyURI>
+    </crspndnc:PropertyPair>
+    <crspndnc:PropertyPair rdf:parseType="Resource">
+      <crspndnc:resource2PropertyURI>http://omg.org/sysml/rdf#NamedElement/name</crspndnc:resource2PropertyURI>
+      <crspndnc:resource1PropertyURI>http://mathworks.com/simulink/rdf#Parameter/name</crspndnc:resource1PropertyURI>
+    </crspndnc:PropertyPair>
+    <crspndnc:resource2ETag>"dc9f3664fe2b3b0432e6a84b34d1ffa5"</crspndnc:resource2ETag>
+    <crspndnc:resource1ETag>"d03396a73019ff5501fcdba92e6ae5a8"</crspndnc:resource1ETag>
+    <crspndnc:resource2URI>http://localhost:8080/oslc4jmagicdraw/services/TestProject2/valueproperties/Constant_SimBlock::Value</crspndnc:resource2URI>
+    <crspndnc:resource1URI>http://localhost:8181/oslc4jsimulink/services/model11.slx---model11/parameters/Constant::Value</crspndnc:resource1URI>
+    <rdf:type>http://open-services.net/ns/crspndnc/ResourcePair</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testProvider.com/correspondences/http://localhost:8080/oslc4jmagicdraw/services/TestProject2/valueproperties/Model_SimBlock::ModelName">
+    <crspndnc:PropertyPair rdf:parseType="Resource">
+      <crspndnc:resource2PropertyURI>http://omg.org/sysml/rdf#ValueProperty/defaultValue</crspndnc:resource2PropertyURI>
+      <crspndnc:resource1PropertyURI>http://mathworks.com/simulink/rdf#Parameter/value</crspndnc:resource1PropertyURI>
+    </crspndnc:PropertyPair>
+    <crspndnc:PropertyPair rdf:parseType="Resource">
+      <crspndnc:resource2PropertyURI>http://omg.org/sysml/rdf#NamedElement/name</crspndnc:resource2PropertyURI>
+      <crspndnc:resource1PropertyURI>http://mathworks.com/simulink/rdf#Parameter/name</crspndnc:resource1PropertyURI>
+    </crspndnc:PropertyPair>
+    <crspndnc:resource2ETag>"7bc4d6c5166fcb59185630121d602707"</crspndnc:resource2ETag>
+    <crspndnc:resource1ETag>"84aac3d2987ea271500e84354ebef97e"</crspndnc:resource1ETag>
+    <crspndnc:resource2URI>http://localhost:8080/oslc4jmagicdraw/services/TestProject2/valueproperties/Model_SimBlock::ModelName</crspndnc:resource2URI>
+    <crspndnc:resource1URI>http://localhost:8181/oslc4jsimulink/services/model11.slx---model11/parameters/Model::ModelName</crspndnc:resource1URI>
+    <rdf:type>http://open-services.net/ns/crspndnc/ResourcePair</rdf:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://testProvider.com/correspondences/http://localhost:8080/oslc4jmagicdraw/services/TestProject2/valueproperties/Subsystem2_Sum_SimBlock::Inputs">
+    <crspndnc:PropertyPair rdf:parseType="Resource">
+      <crspndnc:resource2PropertyURI>http://omg.org/sysml/rdf#ValueProperty/defaultValue</crspndnc:resource2PropertyURI>
+      <crspndnc:resource1PropertyURI>http://mathworks.com/simulink/rdf#Parameter/value</crspndnc:resource1PropertyURI>
+    </crspndnc:PropertyPair>
+    <crspndnc:PropertyPair rdf:parseType="Resource">
+      <crspndnc:resource2PropertyURI>http://omg.org/sysml/rdf#NamedElement/name</crspndnc:resource2PropertyURI>
+      <crspndnc:resource1PropertyURI>http://mathworks.com/simulink/rdf#Parameter/name</crspndnc:resource1PropertyURI>
+    </crspndnc:PropertyPair>
+    <crspndnc:resource2ETag>"b17615879300d5c202c011a5e9460241"</crspndnc:resource2ETag>
+    <crspndnc:resource1ETag>"c66210d5334399b27c3c70d767a43bfa"</crspndnc:resource1ETag>
+    <crspndnc:resource2URI>http://localhost:8080/oslc4jmagicdraw/services/TestProject2/valueproperties/Subsystem2_Sum_SimBlock::Inputs</crspndnc:resource2URI>
+    <crspndnc:resource1URI>http://localhost:8181/oslc4jsimulink/services/model11.slx---model11/parameters/Subsystem2::Sum::Inputs</crspndnc:resource1URI>
+    <rdf:type>http://open-services.net/ns/crspndnc/ResourcePair</rdf:type>
+  </rdf:Description>
+</rdf:RDF>
